@@ -4,7 +4,7 @@ Awesome ToDo is an android app that allows building a todo list and basic todo i
 
 Submitted by: Ayomide Adeoye
 
-Time spent: 3
+Time spent: 3 hours
 
 ## User Stories
 
